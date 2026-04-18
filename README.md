@@ -26,8 +26,7 @@ The dataset includes
 - Python (Pandas, NumPy)
 - Visualization Matplotlib, Seaborn
 - Statistical Analysis SciPy (Pearson, Spearman, Mann-Whitney U)
-- Jupyter Notebook
-
+- Google Colab
 ---
 
 ## 🔍 Analysis Workflow
